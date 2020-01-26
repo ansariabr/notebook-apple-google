@@ -1,0 +1,3663 @@
+The Pixel
+
+can't stop leaking.
+
+- We pretty much know
+
+everything there is to know
+
+about a Pixel 3, as
+
+well as the Pixel 3 XL.
+
+- We have a very clear
+
+image now of this Pixel 3.
+
+- We know pretty much everything about it.
+
+- No matter how hard you try,
+
+you literally can't get
+
+anything past the internet.
+
+- Good morning, everyone!
+
+I'm so glad you've joined us.
+
+We're shaking things up a
+
+little bit with a new venue,
+
+some new faces in a new city.
+
+Special welcome to our
+
+friends in the media.
+
+We've also invited some of
+
+our top sales associates
+
+from Verizon and TELUS.
+
+Welcome.
+
+Yeah, that's right.
+
+For you out-of-towners,
+
+thanks so much for coming here
+
+to New York city to be with us.
+
+So this year marks
+
+Google's 20th anniversary,
+
+and for two decades, we've been
+
+working towards our mission
+
+of helping to organize
+
+the world's information,
+
+make it more accessible
+
+and helpful for everybody.
+
+Delivering information has
+
+always been in our DNA.
+
+It's why we exist.
+
+We love working on really hard problems
+
+that make life easier for people
+
+in big and small ways.
+
+And I wanted to tell you a couple stories
+
+about what I mean about this.
+
+So even after two decades,
+
+we're constantly working
+
+to shave as many milliseconds as possible
+
+off of our search times.
+
+That focus has caused us to
+
+push into a bunch of new areas.
+
+We designed our own servers.
+
+We designed an operating
+
+system to run our data centers.
+
+All this so you could find
+
+search results faster.
+
+But if we're really gonna help
+
+people, we need to make sure
+
+we provide the most
+
+relevant search results.
+
+And we can only do that
+
+if we know what people are asking for.
+
+So we set out to understand
+
+the nuances of language
+
+and the intent behind the words.
+
+As we progressed on that, we
+
+realized that we could help
+
+with translation, too.
+
+That's led us down a path of developing
+
+completely new technologies,
+
+software, hardware,
+
+and the AI that underlies it all.
+
+And now, we're translating
+
+143 billion words
+
+every day in more than 100 languages.
+
+And now more people can
+
+say what they wanna say
+
+to each other.
+
+Beautiful, hello, thank you.
+
+These are three of the
+
+most requested words
+
+in every language.
+
+And with speech recognition
+
+as good as it is,
+
+we can roll out voice interactions
+
+across our hardware
+
+devices so your devices
+
+understand you when you talk to them.
+
+We can lessen the pain
+
+of responding to emails
+
+by suggesting quick responses.
+
+And Smart Compose in Gmail even offers
+
+to finish your sentences as you type.
+
+It can suggest relevant contextual phrases
+
+and cut back
+
+on repetitive typing like addresses.
+
+Smart Compose is already saving people
+
+a billion characters of typing each week
+
+and it's coming to
+
+mobile first with Pixel.
+
+So with our improvements in language,
+
+the Google Assistant is much better
+
+at getting things done for you
+
+like booking a restaurant
+
+reservation over the phone.
+
+That's our Duplex technology
+
+you saw earlier this year.
+
+These incredible technologies
+
+you'll hear about today
+
+are built on this 20-year
+
+history of making information
+
+more accessible and helpful for people.
+
+This is also true of our work in imaging.
+
+Many of you in this room
+
+say last year's Pixel 2
+
+still takes the best
+
+pictures even in a year
+
+with so many amazing flagship phones.
+
+That's not a fluke.
+
+Pixel's camera completely
+
+rethinks how images are captured
+
+and we can trace that intelligence
+
+directly back to Google Search.
+
+We noticed very early on
+
+that people were using Google
+
+to search for images
+
+even though our results
+
+weren't perfect back then
+
+because we were looking at meta tags,
+
+we were looking at surrounding text.
+
+Now it's just really a work-around.
+
+But what we really needed to do
+
+was look at the images themselves.
+
+So we spent years researching
+
+computer vision technologies,
+
+analyzing hundreds of millions of photos,
+
+and now we're getting better all the time
+
+at recognizing objects and
+
+faces and even concepts
+
+within an image or a scene.
+
+And we have all kinds of
+
+ways to put this technology
+
+to work for you.
+
+Like right now, you can search
+
+through your photo library
+
+so pictures are accessible
+
+wherever you are
+
+without any work from you.
+
+And we can help take a
+
+stunning portrait photo
+
+just like you would with a DSLR.
+
+And we can smooth out
+
+shakiness in your videos.
+
+You can also point your
+
+camera at a movie poster,
+
+get local theater listings,
+
+maybe even look up an actor's bio.
+
+And we've invented a new type of camera,
+
+put it on a fleet of cars,
+
+and then drove those cars
+
+all over the world to give you
+
+a detailed map of the world.
+
+So from searching to translating
+
+to getting a great photo of the world,
+
+when we see an opportunity to help people,
+
+we go the extra mile.
+
+Our deep investment in AI over many years
+
+is at the core of our
+
+ability to push forward
+
+in many areas at once.
+
+And you're gonna see this in
+
+a lot of our products today.
+
+I say this every year,
+
+but the big breakthroughs
+
+you're gonna see are
+
+not in hardware alone.
+
+They come at the
+
+intersection of AI, software,
+
+and hardware working together.
+
+This approach is what makes
+
+Google's hardware experience
+
+so unique and it unlocks all
+
+kinds of helpful benefits.
+
+When we think about
+
+artificial intelligence
+
+in a consumer hardware context,
+
+it isn't artificial at all.
+
+It's helping you get real
+
+things done every day.
+
+A shorter route to work,
+
+a gorgeous vacation photo,
+
+a more efficient home.
+
+Our guiding principle
+
+here is exactly the same
+
+as it's been for 20 years,
+
+to respect our users
+
+and to put them first.
+
+And that guides our work in
+
+three very specific ways.
+
+First, we wanna respect
+
+each user as an individual
+
+and provide them with
+
+their own personal Google.
+
+Just as Google is organizing
+
+the world's information,
+
+we can combine AI, software, and hardware
+
+to organize your information.
+
+Your experience and
+
+the help we provide you
+
+is unique to you.
+
+The Google Assistant is
+
+the best expression of this
+
+and it's always available
+
+to help provide help
+
+when and where you need it.
+
+Second, we're committed to
+
+the security of our users.
+
+We need to offer simple, powerful ways
+
+to safeguard your devices.
+
+One way we do this is at the OS level.
+
+Google Play Protect is
+
+the most widely deployed
+
+mobile threat protection
+
+service in the world
+
+and it constantly works in the background
+
+to keep your devices and data safe.
+
+We've also integrated Titan Security,
+
+the system we built for
+
+Google data centers,
+
+into our mobile devices
+
+with a new dedicated chip.
+
+Titan Security protects your
+
+most sensitive on-device data
+
+by securing your lock screen
+
+and strengthening disk encryption.
+
+And it also even protects the integrity
+
+of the operating system itself.
+
+By combining Titan Security
+
+both in the data center
+
+and on-device, we've created a closed loop
+
+for your data across the Google ecosystem.
+
+We know people wanna hear a lot about this
+
+so you'll be hearing more
+
+about it throughout the day.
+
+A vital third theme of
+
+ours, we wanna make sure
+
+that you're in control of
+
+your digital well-being.
+
+From our research, 72%
+
+of users are concerned
+
+about the amount of time
+
+they spend using tech.
+
+And we absolutely share that concern.
+
+So we've developed new
+
+tools that let you control
+
+your devices, instead of
+
+those devices controlling you.
+
+We're introducing new
+
+simple ways to cut down
+
+on notifications and distractions.
+
+We can help you understand
+
+the amount of time
+
+you're spending with
+
+different applications
+
+and set app limits so
+
+you can switch them off
+
+when you want to.
+
+And we're providing parents
+
+with simple controls
+
+over screen time with the family.
+
+We feel a deep responsibility to our users
+
+to provide a helpful,
+
+personal Google experience
+
+while keeping their information secure
+
+and making sure they're in control
+
+of their digital well-being.
+
+These things really matter to our users
+
+and it shows in their
+
+response to our products.
+
+The enthusiasm has been
+
+absolutely great this year.
+
+Our Google Home devices are expanding
+
+into more countries and more homes.
+
+Our daily active users have grown by 5X
+
+in the past year alone, and
+
+test after test concludes
+
+that Google Home is the most accurate
+
+and most helpful home assistant device.
+
+It does the best job of
+
+filtering out background noises
+
+and understanding
+
+different people's voices,
+
+and it now offers help
+
+in multilingual homes.
+
+Pixelbook has had a huge year as well.
+
+The Verge said Pixelbook is stellar.
+
+It's elegant, sturdy,
+
+fast, and smartly designed.
+
+And both Pixelbook owners and
+
+a lot of you tech reviewers,
+
+gave it the edge over
+
+other premium laptops
+
+for its speedy performance
+
+and innovative design.
+
+And we're just getting started here.
+
+And what a year for Pixel 2.
+
+A couple months ago, Wired named it
+
+the best smartphone money can buy in 2018.
+
+That's as good as it
+
+gets especially in a year
+
+with so many great flagship phones.
+
+Plus, the Pixel experience
+
+keeps getting better over time
+
+as we've rolled out a
+
+number of helpful updates.
+
+The UI is improved, the colors are deeper.
+
+The phone is just all around more helpful
+
+than when it first came out.
+
+We're really proud of
+
+the progress we've made
+
+across the whole Made by Google family,
+
+but you probably don't
+
+wanna hear too much more
+
+about last year's products,
+
+so let's talk about what
+
+we've been working on.
+
+So first, for life on the go, we designed
+
+the world's best camera and put it
+
+in the world's most helpful phone.
+
+Introducing the beautiful new Pixel 3.
+
+And for life at home, we
+
+designed - oops, sorry,
+
+for life at work and
+
+at play, we're bringing
+
+the power and productivity of a desktop
+
+to a gorgeous tablet called Pixel Slate.
+
+And for life at home, we
+
+designed a smart display
+
+so you can hear and see the info you need
+
+and manage your connected
+
+home from a single screen.
+
+Introducing Google Home Hub.
+
+And here they are, coming
+
+up here in the pedestals,
+
+for the first time, seen in real life.
+
+Go ahead, you can take a
+
+couple photos if you'd like.
+
+- Try not to knock 'em
+
+over because if you break it,
+
+you have to buy it.
+
+- Give you about 30 seconds or so.
+
+- I gotta get a shot of these.
+
+These look great.
+
+- Wow!
+
+- Okay, all right, we can
+
+start to put 'em away.
+
+Don't worry, everyone, you'll
+
+get more time with them
+
+in the demo area.
+
+Are you trying to take one outta there?
+
+I would, too.
+
+- But please don't.
+
+I think they look great.
+
+They look great, right?
+
+- Yeah.
+
+- Well, let's talk about the design,
+
+because I think the design
+
+of this year's products
+
+are absolutely terrific.
+
+Just last month, Fast Company named Google
+
+the design company of the year
+
+for our efforts in both
+
+hardware and software design.
+
+We've seen incredible
+
+progress in material design,
+
+our adaptable open-source
+
+system of guidelines,
+
+tools, and components that
+
+support the best practices
+
+of user interface design.
+
+And this has resulted in some
+
+truly beautiful evolutions
+
+of the applications you know and love.
+
+And this year's new devices fit perfectly
+
+with the rest of the family.
+
+That's due to the amazing Ivy Ross
+
+and her wonderful design team.
+
+They've really, yes!
+
+They've really pushed us to
+
+think about how technology
+
+can be designed for
+
+the way you live today.
+
+And the design world has taken notice.
+
+Over the past year,
+
+Made by Google products
+
+have won more than 45 of the
+
+design industry's top awards.
+
+Ivy's gonna give us a rare
+
+peek into her design studio
+
+and share some of the details
+
+about her team's philosophy and approach.
+
+Let's take a look.
+
+- People think aesthetics
+
+is making something pretty
+
+and it's really not.
+
+I mean, aesthetics is
+
+about igniting our senses.
+
+I think we're all craving
+
+that a little bit.
+
+What is the design language for Google?
+
+Bold and optimistic.
+
+Human in our forms and in
+
+our colors and in our shapes.
+
+As technology progresses,
+
+it needs to be closer to us.
+
+Soft circles and curves
+
+evoke something natural and familiar.
+
+How that language shows
+
+up will evolve over time.
+
+I think technology has to fit into place.
+
+It will eventually be invisible.
+
+The design challenge is
+
+to make that transition
+
+smooth and beautiful.
+
+Our job is to figure
+
+out what it feels like
+
+to hold Google in your hand.
+
+- So cool, so cool.
+
+Some of the best examples
+
+of the amazing work
+
+that Ivy and her team have been doing
+
+is in the most important
+
+place in your life, your home.
+
+Fast Company named Google Home Mini
+
+the most innovative
+
+product design of 2018.
+
+And consumers love it, too,
+
+as it extends access to the Assistant
+
+in more places throughout the home.
+
+With Google WiFi, we're
+
+using mesh networking and AI
+
+to extend your home WiFi network.
+
+Google WiFi is still the number one router
+
+and it's the simplest way to make sure
+
+that your connection speed is good
+
+and your home network is well managed.
+
+You might have heard that
+
+we're bringing together
+
+Google and Nest so we
+
+can solve deeper problems
+
+in managing people's homes.
+
+The right way to do this is
+
+to start with the basics.
+
+The smart home of 2018 is too complex
+
+with siloed technologies and interfaces.
+
+Your smart home really
+
+doesn't seem too smart
+
+when it can't figure out
+
+how to turn on the lights
+
+or set your home security system.
+
+So together with Nest, we're
+
+pursuing our shared vision
+
+of a thoughtful home
+
+that isn't just smart,
+
+but it's helpful and
+
+simple enough for everyone
+
+to set up and use.
+
+Nest defined the thoughtful home
+
+with the Nest Learning Thermostat
+
+which is the number one
+
+product in its space
+
+and it's helped save
+
+over 25 billion kilowatt hours of energy.
+
+Nest also has the top-rated products
+
+in connected security cameras,
+
+smoke alarms, and door bells.
+
+So working together,
+
+Google and Nest can shape
+
+how these technologies come together
+
+for a more helpful, thoughtful home.
+
+To show you what that
+
+means, let me bring Diya out
+
+to talk a little bit more
+
+about the newest addition
+
+to the Google Home family.
+
+Diya?
+
+- Thanks, Rick.
+
+Hey, everyone!
+
+Thanks so much for being here today.
+
+Let me tell you about
+
+how we have re-imagined
+
+Google for the home.
+
+Two years ago, we launched Google Home
+
+with the goal of helping
+
+you and your family simplify
+
+the hectic moments in your life
+
+and we've seen that this is
+
+striking a chord with our users.
+
+The number of queries in
+
+Google Home has gone up
+
+by over 400% in just the last year.
+
+But now, imagine not only being
+
+able to hear a response back
+
+when you ask Google Assistant a question,
+
+but imagine being able
+
+to see a response back.
+
+That is the power of Google Home Hub.
+
+With Google Home Hub, we've redesigned
+
+Google's most helpful services,
+
+like Search, YouTube,
+
+Maps, Calendar, and Photos,
+
+so they're easily
+
+controllable with your voice,
+
+and provide glanceable help.
+
+Today, all of us use many
+
+different display devices
+
+in our homes, like phones,
+
+laptops, and even tablets.
+
+But none of these were
+
+developed with the goal
+
+of helping you and your family
+
+in your home environment.
+
+That is why we built Google Home Hub.
+
+We obsessed about what a display
+
+designed specifically
+
+for your home should do.
+
+How should it interact
+
+with you and your family?
+
+What kind of help should it provide?
+
+How should it look in any room?
+
+So we spent countless
+
+hours on the design of Hub.
+
+We incorporated soft, rounded
+
+corners and premium materials,
+
+including our own custom fabrics.
+
+You can also choose from
+
+four beautiful colors
+
+to complement any room.
+
+The elegant floating display is big enough
+
+so that you can see things
+
+even from across the room,
+
+but it's small enough to fit
+
+in any space in your home.
+
+We also consciously did
+
+not put a camera on Hub
+
+so that it was comfortable
+
+to use in the private spaces
+
+of your home like your bedroom.
+
+We wanted to make sure that Hub
+
+is not a bright, glowing
+
+screen in your home.
+
+So we made sure that Hub
+
+can respond automatically
+
+to the ambient light in the room.
+
+To do this, we developed a
+
+feature called Ambient EQ.
+
+With Ambient EQ, we
+
+take a dedicated sensor
+
+and combine it with our
+
+own imaging algorithms
+
+so that we can fine-tune the brightness
+
+and color of the display.
+
+So now, Hub can respond automatically
+
+to the bright white tones of natural light
+
+that you get during the day,
+
+and then gradually shift
+
+into the oranges and yellows
+
+of your indoor lights
+
+in the evening.
+
+You can feel the magic of Ambient EQ
+
+when you look at your photos on a Hub.
+
+And, of course, Hub automatically
+
+turns the screen off at night.
+
+So now, no matter what
+
+time of day, which room,
+
+and even your home decor,
+
+Hub can blend seamlessly
+
+into your home.
+
+Finally, we also wanted Hub
+
+to be a communal device,
+
+one that works for everyone in your home.
+
+So we trained Hub
+
+on Google's industry-leading
+
+speech recognition technology.
+
+By using Voice Match,
+
+Hub is able to recognize
+
+who is speaking to it
+
+and it's able to provide
+
+a personalized experience
+
+for each and every user
+
+in your home.
+
+Today, 85% of Google Home
+
+users are using Voice Match.
+
+So by now, you're probably
+
+wondering how Hub works.
+
+So let me call up Mark,
+
+one of our project managers
+
+to show you Hub in action.
+
+- Thanks, Diya.
+
+Hello, everyone.
+
+I'm excited to share
+
+with you a few examples
+
+how Hub fits into my home.
+
+Mornings are crazy for most of us,
+
+and having a little bit
+
+of help would be awesome.
+
+With Hub, I can just say, hey, Google.
+
+Good morning.
+
+- Good morning, Mark.
+
+The time is 9:00 a.m.
+
+Currently in San Francisco,
+
+it's 64 and sunny.
+
+The best way to get to work by car
+
+is via US 101 South and
+
+will take 45 minutes.
+
+There are 11 entries in your calendar.
+
+By the way, remember to pick
+
+up eggs for dinner tonight.
+
+- Because Hub recognized my
+
+voice, it tells me everything
+
+I need to know while I'm
+
+finishing up my cup of coffee.
+
+And in the evenings, Hub is great
+
+at helping me make dinner and relax.
+
+Google Home Hub is the best
+
+display made for the kitchen.
+
+So instead of fumbling
+
+around with your phone
+
+or the tablet while you
+
+have flour on your hands
+
+or you're washing dishes
+
+or wearing oven mitts,
+
+you can simply use your voice
+
+to get help in the kitchen.
+
+You can set multiple timers.
+
+You can find out how
+
+many ounces are in a cup.
+
+You can even figure out what
+
+to cook for dinner tonight.
+
+My Hub gives me access to
+
+a huge library of recipes
+
+including great dishes from Tasty.
+
+Tonight, I'm gonna make
+
+two of the classics,
+
+eggs Benedict with The French 75,
+
+#latenightbrunch.
+
+As you can see, with
+
+Hub I can follow along
+
+step-by-step instructions to figure out
+
+how to make eggs Benedict.
+
+I can even watch a video to
+
+figure out how to poach an egg.
+
+Now I'd like to tell you a little bit more
+
+about YouTube on Hub.
+
+The YouTube experience has been optimized
+
+so I have access to a ton of how-to videos
+
+just by using my voice.
+
+Good example is I can say, hey, Google.
+
+YouTube video?
+
+Now Hub, hey, Google, show me
+
+how to carve a pumpkin.
+
+- Okay.
+
+Showing how to carve
+
+Halloween pumpkins on YouTube.
+
+- That's a pretty epic pumpkin.
+
+And, of course, Hub is great
+
+for enjoying music as well.
+
+With YouTube music, you can
+
+easily find the perfect song,
+
+video or artist.
+
+Hey, Google.
+
+Play something brand new.
+
+- All right, here's
+
+some music on YouTube.
+
+- All I have to do is ask
+
+to have instant access
+
+to the massive catalog
+
+of music and videos.
+
+By offering the ability
+
+to hear and see your music
+
+on Hub, it really brings the
+
+concert right to your home.
+
+Through December, Hub comes
+
+with six months of YouTube Premium on us
+
+including ad-free videos
+
+and our new YouTube
+
+Music streaming service.
+
+So we all know technology
+
+can make our lives easier
+
+and more fun.
+
+But sometimes it's
+
+really hard to disconnect
+
+and enjoy time with friends and family.
+
+Hub can help with that, too.
+
+Just put Hub into Downtime mode,
+
+and it won't interact
+
+with anyone in the house
+
+except for those critical
+
+things like alarms.
+
+It's a simple step but it
+
+makes a huge difference.
+
+We're also introducing a set of tools
+
+to provide parents with a
+
+little bit of peace of mind.
+
+With filters, you can ensure
+
+that everyone in the home
+
+is enjoying family-friendly content.
+
+So no matter if you're
+
+starting off your day,
+
+if you're learning something new,
+
+or if you're just chilling at
+
+home, Hub is there to help.
+
+Back to you, Diya.
+
+- Thanks a lot, Mark.
+
+As you can see, Hub can really
+
+help you simplify your home.
+
+But there's more.
+
+As Rick mentioned, we wanna
+
+build a thoughtful home
+
+for our users, and where
+
+this comes to life the most
+
+is in how easy it is with
+
+Hub to set up, manage,
+
+and control your devices.
+
+You can even see the state of
+
+your entire home at a glance.
+
+It truly is a hub for
+
+your thoughtful home.
+
+So let me show you how.
+
+Today I have a few different
+
+smart devices in my home.
+
+Smart lights, thermostat, doorbell,
+
+and even a door lock.
+
+To be able to control
+
+and manage these devices,
+
+I have to go to multiple different apps.
+
+And if my husband wants to
+
+manage and control these devices,
+
+he has to go to the same apps.
+
+We have no one place to go to
+
+to get the state of our entire home.
+
+Did we forget to turn down
+
+the lights and lock the door
+
+in the living room before going to bed?
+
+With Hub, we're introducing Home View.
+
+With a swipe down from
+
+the top of the screen,
+
+you can bring up a simple dashboard.
+
+The dashboard shows you the
+
+state of your entire home
+
+at a quick glance and
+
+provides you quick access
+
+to all your devices.
+
+This has been a radically
+
+helpful addition to my home.
+
+Home View was designed to be super easy
+
+and intuitive to use with a
+
+simple tap or with your voice.
+
+You can even see things by room
+
+so you can turn down the
+
+temperature in the bedroom
+
+and turn up the music in the living room.
+
+It's now all in one place
+
+for the very first time
+
+and easily accessible by
+
+everyone in your family.
+
+And we're providing the
+
+same level of control,
+
+even if you're not near your Hub.
+
+We have redesigned the Google Home app
+
+to be the mobile controller
+
+for your smart home.
+
+It has the same Home
+
+View dashboard as Hub.
+
+So now you can control all your devices
+
+from any phone even
+
+when you're not at home.
+
+Now, with Nest devices, we
+
+have all the tools in place
+
+to help take the experience
+
+of a thoughtful home
+
+to the very next level.
+
+So we made sure that Hub
+
+was deeply integrated
+
+with Nest devices, like Nest
+
+Camera, Nest Thermostat,
+
+and even Hello doorbell.
+
+So, for instance, if you're having dinner
+
+and someone happens to ring your doorbell,
+
+Hub will automatically show
+
+you who's at the front door,
+
+and you can tap a quick
+
+response or use your voice
+
+to let your guest know
+
+that you'll be right there.
+
+Many people have connected
+
+devices in their homes today
+
+and they don't even know it.
+
+Hub can help with that.
+
+Home View lets you control
+
+over 200 million devices
+
+from over a thousand brands,
+
+many of them in your home today.
+
+So now, with a simple
+
+tap or with your voice,
+
+you can control your Dish
+
+Hopper DVR, your Chromecast,
+
+your Vizio TV and even your
+
+Philips Hue light bulb.
+
+With Home View you have all
+
+the tools in place to help you
+
+build and manage your thoughtful home,
+
+whether you have a house full
+
+of connected devices like I do
+
+or you're just getting started
+
+with your first simple smart light bulb.
+
+Now, we've talked a lot
+
+about what Hub can do.
+
+But what about when it's not in use?
+
+We designed Hub to be the
+
+world's best photo frame
+
+so that you could relive
+
+your precious moments
+
+on Google Home Hub.
+
+We do this via a deep
+
+integration with Google Photos.
+
+Google Photos has over 1.2
+
+billion photos and videos
+
+uploaded every single day.
+
+So now you can select any
+
+album that you've ever created
+
+or that was shared with you.
+
+And, we're introducing a new
+
+feature called Live Albums.
+
+With Live Albums, you can just
+
+select the photos of people
+
+that you want to see, and
+
+what we will automatically do
+
+is create a new album with all the photos
+
+you've ever taken of those people.
+
+Your photos also never get stale
+
+because Live Album updates automatically
+
+every time you take new pictures.
+
+So it's been really amazing.
+
+Every time I walk by Hub
+
+and see a photo of my son
+
+or husband that I've forgotten about,
+
+it brings a smile to my face.
+
+And we recently came home
+
+from a family vacation
+
+to show our photos
+
+already displaying on Hub.
+
+Hub also makes a perfect, Hub
+
+also makes it easy to share
+
+Live Albums with loved ones.
+
+So now my parents can see
+
+photos of my son show up
+
+automatically in their home.
+
+Now, you also might be wondering,
+
+what about that blurry
+
+picture I took the other day?
+
+Will that show up on Hub as well?
+
+The answer is no.
+
+We use machine learning to only show
+
+your best photos on Hub.
+
+We automatically filter out blurry photos,
+
+under-exposed photos, those
+
+random pictures of things
+
+like receipts, and even duplicate photos.
+
+Now, with Google Home
+
+Hub, you have a great way
+
+to actually relive your favorite memories.
+
+So you can pre-order Google Home Hub
+
+on the Google Store today for $149,
+
+and it's also available on October 22nd
+
+at retail locations here in
+
+the US, UK, and Australia.
+
+Google Home Hub is the perfect display
+
+to help you manage your thoughtful home
+
+and provide the help
+
+you need with a glance.
+
+Check out this video.
+
+Thank you.
+
+- Woo!
+
+All right!
+
+All right!
+
+As I mentioned earlier,
+
+Google's been obsessed
+
+with speed and relevance
+
+of the search information
+
+we can provide.
+
+We built this incredible search engine,
+
+but back then, browsers
+
+were just too slow.
+
+So then we built Chrome,
+
+a faster, more secure browser.
+
+But users still had to
+
+use our fast browser
+
+on their old, slow PCs.
+
+They took way too long to start up,
+
+they were a hassle to keep secure,
+
+and they just weren't optimized
+
+for the web and app
+
+experiences we use today.
+
+And we knew computing could
+
+be fundamentally better,
+
+so we developed Chrome OS
+
+to represent a new vision
+
+for computing based on
+
+our core tenets of speed,
+
+simplicity, and security.
+
+Chrome OS brings together
+
+the best of Google,
+
+Search, AI, and apps and
+
+services all in one place.
+
+Now your Chromebook boots
+
+up in seconds, not minutes.
+
+It lasts all day.
+
+And it gets better over time.
+
+It keeps up with the
+
+many aspects of your life
+
+because work and play are
+
+fluid throughout the day.
+
+And that's why millions of
+
+people have used these devices
+
+in schools, homes, and
+
+businesses worldwide.
+
+Last year, Chrome OS
+
+took a big step forward
+
+with the introduction of apps
+
+from the Google Play Store
+
+and also with the
+
+introduction of helpfulness
+
+from the Google Assistant.
+
+We tied this all together
+
+with the launch of Pixelbook,
+
+the high-performance Chromebook.
+
+Pixelbook reviews from both
+
+the press and customers
+
+have been fantastic.
+
+People especially love its
+
+beautiful, versatile design
+
+and its blazing fast speed.
+
+And today we're sharing a new chapter
+
+for our vision for Chrome OS
+
+with the launch of Google Pixel Slate.
+
+Here's Trond to tell you a
+
+little bit more about it.
+
+- Thanks, Rick.
+
+Google Pixel Slate is a
+
+completely new experience,
+
+giving you powerful productivity
+
+in a fresh, mobile form
+
+something that isn't a
+
+laptop trying to be a tablet
+
+because who wants a fan in their tablet?
+
+Or a tablet that's really a phone
+
+pretending to be a computer.
+
+Instead, we combined the helpful elements
+
+of all of these devices to create
+
+a modern computing experience
+
+people have been asking for.
+
+We designed Pixel Slate
+
+to be both thin and light.
+
+It's crafted with beautiful
+
+lines and rounded edges
+
+in a stylish midnight blue.
+
+And it has a perfectly
+
+balanced center of gravity
+
+so it's incredibly comfortable to hold.
+
+Pixel Slate is engineered with
+
+a stunning detailed display,
+
+so sitting back to enjoy a
+
+movie is better than ever.
+
+It has 293 pixels per inch.
+
+That's 6 million pixels,
+
+for the sharpest picture
+
+in the category.
+
+When we put Pixel Slate in the hands
+
+of some of our most
+
+demanding YouTube creators,
+
+filmmakers, who make movies in 8K,
+
+they raved about this display.
+
+Let's take a look at how they reacted
+
+to seeing their content on
+
+Pixel Slate for the first time.
+
+- We're looking for something
+
+that draws us in personally,
+
+that excites us.
+
+- As a creator, I
+
+spend a lot of time trying
+
+to just make sure our image
+
+looks the best it can be.
+
+To see the Pixel Slate
+
+representing that correctly
+
+is really awesome.
+
+- It's like
+
+you're taking the glass
+
+out of the window.
+
+- That's exactly
+
+how it's supposed to look.
+
+- To get to this level of quality,
+
+Pixel Slate uses a custom display
+
+with low-temperature
+
+polycrystalline silicon technology
+
+which allows for a hundred
+
+times faster movement
+
+of electrons versus a standard display.
+
+As a result, it can efficiently light up
+
+a massive number of pixels.
+
+Your movies, photos, and
+
+games will be stunning
+
+in vibrant colors and
+
+brilliant resolution.
+
+Now, a brilliant display doesn't mean much
+
+without great sound.
+
+So with Pixel Slate, we've
+
+positioned the speakers
+
+on the front of the device so
+
+they can direct stereo sound
+
+towards you instead of out
+
+towards the walls or the floor.
+
+They deliver surprisingly big sound.
+
+- We've also tuned our audio algorithms
+
+with a custom-designed
+
+profile that gives you
+
+crisp highs and clear lows.
+
+This combination of an amazing display
+
+and dual front-firing speakers
+
+gives you the best
+
+entertainment experience
+
+you can hold in your hands.
+
+It's also a great device for cord-cutters,
+
+and nothing brings this to
+
+life better than YouTube TV.
+
+We're excited to give you
+
+three months of YouTube TV
+
+with the purchase of a new
+
+Pixel Slate or Pixelbook
+
+so you get live TV from
+
+more than 60 networks
+
+including sports and local news.
+
+- Took his time today.
+
+The heat get off to join--
+
+- Now, you heard Rick talk
+
+earlier about our deep history
+
+in imaging and computational photography.
+
+We're bringing some of that
+
+same innovative engineering
+
+to Pixel Slate's eight
+
+mega-pixel front-facing
+
+and rear-facing cameras.
+
+Both cameras incorporate our
+
+machine learning algorithms
+
+so you can take great photos
+
+including Portrait mode.
+
+We've also designed
+
+the front-facing camera
+
+to be perfect for video chat.
+
+It has a wide-angle lens
+
+so you can fit everyone
+
+in the frame and a
+
+sensor with larger pixels
+
+which allows for excellent
+
+low-light performance.
+
+Pixel Slate represents a
+
+new chapter for Chrome OS.
+
+Let me show you how we've re-imagined it
+
+for this type of device.
+
+The UI is now optimized to
+
+be simple and easy to use
+
+on a touch screen.
+
+It's a Chrome OS experience that's meant
+
+to be held in your hands.
+
+And at the same time, it gives you
+
+a full desktop experience,
+
+not one designed for a phone.
+
+You can work the way that
+
+you're used to working.
+
+You can even run developer tools
+
+and full-powered Linux applications.
+
+Check out the re-configured launcher.
+
+Instead of hunting for the app you need,
+
+machine learning customizes
+
+the launcher just for you,
+
+suggesting the apps that
+
+you're most likely looking for.
+
+It's your own personal Google
+
+right at your fingertips.
+
+You can easily multitask with
+
+features like split screen
+
+which lets you seamlessly
+
+shift between work and play.
+
+And now, with Pixel Slate,
+
+the Google Assistant
+
+is even more deeply
+
+integrated within Chrome OS.
+
+Simply use your voice and the
+
+Assistant can help you find
+
+a restaurant, dictate an email,
+
+or play your favorite show.
+
+Another helpful feature is Family Link.
+
+This helps you set digital
+
+ground rules for your family
+
+and gives you more control
+
+over how and when your devices are used.
+
+And when it's time to
+
+settle in for the night,
+
+our new do not disturb
+
+and night light features
+
+help you tune out
+
+distractions and gently adjust
+
+the color temperature of your
+
+display to help you wind down.
+
+Now, as you'd expect from us, Pixel Slate
+
+provides really powerful,
+
+hassle-free security.
+
+Virus protection is built in.
+
+The OS updates in the background,
+
+so you always have the
+
+latest security and features
+
+without any annoying interruptions.
+
+Pixel Slate also includes
+
+a Titan Security chip,
+
+so your information, device
+
+passwords, and operating system
+
+are protected on your device.
+
+And to eliminate the fuss
+
+of typing your password,
+
+Pixel Slate's power button
+
+doubles as a fingerprint sensor,
+
+so you can unlock it just
+
+as quickly and securely
+
+as you do your Pixel phone.
+
+Just touch the top and you're good to go.
+
+All of these amazing new
+
+experiences on Chrome OS
+
+truly make Pixel Slate a perfect device
+
+for play and work.
+
+But a true desktop experience
+
+demands a great keyboard.
+
+So we created the Pixel Slate Keyboard,
+
+the perfect companion to Pixel Slate.
+
+The keyboard connects to
+
+Pixel Slate in a snap.
+
+No pairing or charging needed.
+
+Just connect it and start typing.
+
+You'll love the way the
+
+Pixel Slate Keyboard feels.
+
+Last year, TechCrunch said Pixelbook
+
+has the most satisfying
+
+keyboard to type on
+
+I've ever experienced.
+
+So we took everything
+
+great about that keyboard
+
+and put it in a folio.
+
+Its full-size, backlit keyboard
+
+is incredibly comfortable to type on.
+
+The rounded hush keys are soft and quiet
+
+so you won't be that person
+
+with the loud, clackity keyboard.
+
+And the full-featured trackpad
+
+works just like you're used to.
+
+The folio is infinitely adjustable
+
+so you can comfortably use
+
+it at any angle you'd like.
+
+Use it at your desk, on a
+
+plane, or at your kitchen table.
+
+And when you're done with work,
+
+it turns into a slim protective case
+
+that you can take anywhere.
+
+Whether you're using Pixel Slate
+
+with or without the keyboard,
+
+there's a universe of
+
+apps to help you do more.
+
+G Suite is amazing on Pixel Slate.
+
+Our powerful productivity tools are used
+
+by more than a billion people worldwide.
+
+And people spend an
+
+incredible 74% of their time
+
+in these apps working together.
+
+With Docs, Sheets, and
+
+Slides you can collaborate
+
+and create like never before.
+
+Pixel Slate also uses the
+
+full desktop Chrome browser
+
+so you'll never be limited by
+
+the mobile version of a site.
+
+And you can take complete advantage
+
+of the rich ecosystem of extensions
+
+and open as many tabs as
+
+you need to get work done.
+
+There are also millions of
+
+apps in the Google Play Store,
+
+from productivity to fitness,
+
+to games, and entertainment.
+
+We're continuing to
+
+work closely with Adobe
+
+and are pleased to launch
+
+the all-new Adobe Acrobat
+
+on Pixel Slate.
+
+It's a great example of how developers
+
+are optimizing their apps for Chrome OS.
+
+It lets you edit PDFs with precision,
+
+quickly fill out forms, and
+
+sign and annotate documents
+
+using the Pixelbook Pen.
+
+We also have new apps launching
+
+focused on helping you stay healthy.
+
+One that I'm really
+
+excited about is Peloton
+
+because it'll help me
+
+keep up with my workout
+
+even when I'm away from my bike.
+
+And when it's time to relax,
+
+enjoy your favorite shows
+
+on Netflix or experience
+
+millions of worlds with Roblox.
+
+So that's Pixel Slate,
+
+powered by the re-imagined Chrome OS.
+
+It's designed to be as
+
+versatile as you are,
+
+with a desktop operating system,
+
+a full keyboard and trackpad,
+
+a brilliant display and the
+
+mobility and app support
+
+of a tablet.
+
+Pixel Slate comes in
+
+several configurations
+
+starting at $599.
+
+Pixel Slate Keyboard is
+
+$199 and Pixelbook Pen,
+
+now in matching midnight blue, is $99.
+
+All three will be
+
+available later this year
+
+on the Google Store and at major retailers
+
+in the US, Canada, and the UK.
+
+Pixel Slate is truly a no-compromise way
+
+to work and play.
+
+Let's take one final
+
+look at it before I go.
+
+- Finally, it's time to talk about phones!
+
+Google Pixel 3 is designed
+
+from the inside out
+
+to be the smartest, most
+
+useful device in your life.
+
+It's a phone that can answer itself,
+
+a camera that won't miss a shot,
+
+and adds a whole new
+
+experience when it's charging.
+
+- Pixel 3 was built
+
+with exceptionally beautiful
+
+and thoughtful design choices.
+
+It feels great to the touch
+
+and light in your hand.
+
+The matte finish on the all-glass back
+
+is the first of its kind.
+
+It carries over our iconic two-tone design
+
+while providing a beautiful, silky texture
+
+that helps avoid fingerprints.
+
+We developed a new etching process
+
+that allows for both
+
+matte and glossy textures
+
+on the same piece of curved glass
+
+with smooth lines and
+
+seamless transitions.
+
+Pixel 3 comes in three colors:
+
+Just Black, Clearly White,
+
+and a new color, which is not pink.
+
+- The new Pixel comes
+
+in two display sizes,
+
+the 5 1/2-inch Pixel 3 and
+
+the 6.3-inch Pixel 3 XL.
+
+Both of them share the same features
+
+but we know users who want a bigger phone
+
+really want a bigger screen.
+
+So we've designed Pixel
+
+3 XL's screen to extend
+
+all the way to the upper corners,
+
+giving users an edge-to-edge
+
+viewing experience
+
+with some extra useful space at the top.
+
+The flexible OLED is the
+
+best Pixel display ever.
+
+The new adaptive color profile provides
+
+a bright, vibrant viewing experience
+
+from any angle and in any lighting.
+
+Both phones have bigger
+
+screens than last year's Pixel
+
+and a larger screen-to-body ratio.
+
+They feel smaller and
+
+more comfortable to hold.
+
+- Our front-firing stereo
+
+speakers are 40% louder and richer
+
+than last year, perfect for a video call
+
+or for playing music by the pool.
+
+The custom sound profile
+
+was developed for Pixel 3
+
+by a Grammy-winning music producer
+
+for stunning volume and clarity.
+
+To get the most out of this
+
+incredible audio experience,
+
+Pixel 3 is the first phone that ships
+
+with a new YouTube music
+
+streaming experience
+
+and we're giving it to Pixel owners
+
+on us for six months.
+
+Between the design, the display,
+
+and the powerful speakers,
+
+you'll love how Pixel 3 looks and sounds.
+
+- Everyone raves about the Pixel camera
+
+and today, the smartest camera
+
+gets even better with the Pixel 3.
+
+It's so good, even
+
+professional photographers
+
+are shooting with it.
+
+We're excited to announce
+
+a new partnership
+
+with one of the most
+
+celebrated photographers
+
+of our time, Annie Leibovitz.
+
+For her latest project,
+
+she's using Pixel 3
+
+to take photos as she
+
+travels around the country
+
+capturing portraits of
+
+inspiring people and places.
+
+It's the first time that
+
+Annie has officially partnered
+
+with any camera and we can't
+
+wait to unveil the series.
+
+- Now, it's no accident
+
+that Pixel's camera
+
+is ahead of the curve.
+
+It's a true end-to-end combination
+
+of our AI, software, and hardware.
+
+We're building on Google's deep expertise
+
+in computational photography.
+
+Perhaps the most obvious way
+
+it comes to life is with HDR+.
+
+When we introduced zero shutter lag HDR+
+
+on the first Pixel, it blew
+
+away traditional HDR methods
+
+and we're still the only
+
+ones to use this method.
+
+When you press the shutter, Pixel captures
+
+a burst of several short exposures.
+
+We combine the images
+
+algorithmically to create an image
+
+that is brighter, more
+
+detailed, and more colorful.
+
+This technology is generations ahead
+
+of other smartphones
+
+and all of this is happening on-device.
+
+Pixel Visual Core is our
+
+custom-designed imaging chip
+
+that takes complex imaging
+
+and data crunching power
+
+out of our data centers
+
+and puts it on your phone.
+
+We built Pixel Visual Core into Pixel 3
+
+making the camera even faster and smarter
+
+to power new computationally
+
+intensive features.
+
+- No matter how great your camera
+
+is at capturing the finest details
+
+and reproducing the
+
+colors, you can still miss
+
+the perfect shot if you
+
+don't hit the shutter
+
+at exactly the right moment.
+
+Top Shot solves that problem.
+
+Let's check it out.
+
+- All right, come on, girls.
+
+Get together.
+
+Three, two, one.
+
+- Oh!
+
+- I wasn't ready!
+
+- Ready?
+
+- Go, go, go!
+
+- Sorry, bro!
+
+- Ooh, let's get a group photo.
+
+- Ready?
+
+- Oh!
+
+- Oh, no.
+
+- Oh you did not get that.
+
+- One, two, three, cheese!
+
+- Pixel 3's camera is smart enough to know
+
+a good photo when it sees it.
+
+Our machine learning is trained
+
+by analyzing millions of images.
+
+So it know you want to see
+
+smiles instead of sneezes,
+
+photos where everyone in the
+
+group has their eyes open,
+
+and the perfect moment of
+
+shock at a surprise party.
+
+Top Shot automatically captures
+
+alternate shots in HDR+
+
+so if your timing wasn't
+
+perfect, it'll suggest
+
+a better one.
+
+You can also scroll through the alternates
+
+and save one of those instead.
+
+- And then there's Super Res Zoom.
+
+Anyone who's tried to
+
+take a photo at a concert
+
+knows that phone cameras
+
+have terrible zoom.
+
+Instead of shooting a
+
+grainy photo, Pixel 3 shoots
+
+a burst of photos, each a bit different,
+
+taking advantage of the natural
+
+tiny movements of your hand.
+
+And you can guess what happens next.
+
+We run the variations
+
+through a merging algorithm
+
+to create a beautiful, zoomed-in shot,
+
+so you can get closer to the
+
+details and frame your shot
+
+the way you want.
+
+This technique of merging
+
+slightly different photos
+
+for higher resolution has been used
+
+in advanced astronomy research
+
+to surface the image of Mars,
+
+to image the surface of Mars.
+
+Pixel 3 puts this technology into a device
+
+you can hold in your hand.
+
+- Another feature that
+
+we're really excited about
+
+is Night Sight.
+
+Life's best moments aren't
+
+always perfectly lit.
+
+A party, a campfire with your friends,
+
+one last shot before the bar closes.
+
+The typical solution
+
+for low-light settings
+
+is the flash, which makes a big scene,
+
+blinds your friends, and leaves you
+
+with an unnatural-looking photo
+
+with uneven exposures and shadows.
+
+Night Sight works so well
+
+you'll never use your flash again.
+
+Let's take a look.
+
+In extreme low light, we
+
+turn to machine learning
+
+to choose the right colors
+
+based on the content of the image.
+
+These shots are completely untouched.
+
+Night Sight makes Pixel
+
+the best low-light smartphone camera.
+
+It's coming next month to Pixel 3
+
+and our other Pixels as well.
+
+- You might have noticed the second camera
+
+on the front of the phone.
+
+Let's see what it does.
+
+- Are you advanced
+
+take a selfie.
+
+Here we go.
+
+Wait.
+
+- Move your head towards mine.
+
+- Scoot over, scoot over.
+
+- Sorry, sorry okay.
+
+- My arm's not
+
+long enough, guys.
+
+- Try it again.
+
+Get in, get in, get in.
+
+- Boys, we gotta back
+
+up just a little bit, back up.
+
+- Back up, back up.
+
+- Stay in the frame.
+
+- I am.
+
+- Stay in the frame.
+
+Willow, just stay in the frame.
+
+- Guess where I am.
+
+Uh.
+
+- Oh, oh did you see that!
+
+- Move your arm,
+
+we're not gonna fit.
+
+- Don't get in it.
+
+- We're not gonna both fit.
+
+Just move your arm, move your arm!
+
+- Ow, that's mean!
+
+- Just move over!
+
+- Hey, Mitch,
+
+could you scootch in?
+
+I'm trying to take a selfie.
+
+- Oh wait, one sec.
+
+- Oh.
+
+- All right, three, two, one, smile!
+
+- Pixel users tend to get drafted
+
+as the official photographer
+
+including for group selfies,
+
+and we wanna help them
+
+be great at their job, so
+
+we added a second camera
+
+on the front that captures
+
+184% more of the scene
+
+than iPhone XS.
+
+Now you can fit everyone in the shot
+
+without a selfie stick or
+
+unusually long arms like mine.
+
+Just zoom out.
+
+The difference is striking.
+
+You aren't just getting
+
+more people in the frame,
+
+you're getting more details, more scenery,
+
+more of a story.
+
+- For photos and selfies
+
+with even more story,
+
+we've got you covered.
+
+We've evolved AR Stickers to
+
+what we now call Playground
+
+and built it into both the
+
+front and rear cameras.
+
+We've got lots of new
+
+content and characters
+
+including the Avengers in celebration
+
+of Marvel Studio's 10-year anniversary.
+
+These characters are rendered
+
+to feel lifelike in the scene
+
+and they even interact with each other.
+
+Characters can now also
+
+respond to your actions
+
+and facial expressions.
+
+They look like they're
+
+really in the scene with you.
+
+Playground is launching on
+
+Pixel 3 and will be rolled out
+
+to Pixel 1 and 2 soon with
+
+more content on the way.
+
+- And of course, Pixel 3's
+
+camera is for so much more
+
+than taking pictures.
+
+Last year, we introduced Google Lens
+
+which helps you do more with your camera
+
+with what you see.
+
+This year, we integrated Google Lens
+
+directly into the Pixel 3 camera.
+
+Point it at a take-out
+
+menu and Lens will pull out
+
+the phone number to call.
+
+Point it at a movie poster
+
+to click through to the URL.
+
+Lens is now able to work instantly
+
+in the camera and on-device
+
+for some of the most common actions
+
+even without a data connection.
+
+This is only possible by
+
+combining Pixel Visual Core
+
+with our years of work in
+
+Search and computer vision.
+
+Being able to search the world around you
+
+is the next logical step in organizing
+
+the world's information
+
+and making it more useful for people
+
+and we've been doing
+
+that in some fun new ways
+
+like with style search in Lens.
+
+So now, when your friend's wearing
+
+a cool new pair of sunglasses
+
+or you see some shoes you like
+
+in a magazine, you can use
+
+Lens to find them online
+
+and browse similar styles.
+
+It's one more way we're
+
+integrating our AI,
+
+software, and hardware to create
+
+the best end-to-end camera experience.
+
+- There are a lot of
+
+brilliant new superpowers
+
+coming in Pixel 3's camera,
+
+but we didn't have time
+
+to get through them all.
+
+I'm sure you don't want to sit
+
+through a two-hour keynote.
+
+So here's a quick list of
+
+some of the other features
+
+you'll see in our demo area later.
+
+- Photobooth mode
+
+automatically snaps photos
+
+with a smile or when
+
+you make a funny face.
+
+No shutter button needed.
+
+- With Motion auto focus,
+
+just tap on people,
+
+puppies, or anything else
+
+that won't hold still
+
+and they'll stay in focus as
+
+they move around the frame.
+
+- We made a few enhancements
+
+to Portrait mode.
+
+You can edit the depth
+
+of field in a portrait.
+
+You can also change the
+
+focal subject of the photo
+
+or make the color pop.
+
+- And one of the best aspects of Pixel 3
+
+is free unlimited storage
+
+at original quality.
+
+You'll never have to worry about storing,
+
+syncing, or finding your photos.
+
+Pixel 3's camera is
+
+the best end-to-end photography experience
+
+ever on a smartphone.
+
+We can't wait for you to try it.
+
+- So what about when
+
+you're not taking photos?
+
+We designed Pixel 3 to
+
+take things off your plate
+
+so you can spend more
+
+time enjoying the moment
+
+and looking at the world instead
+
+of looking at your phone.
+
+As Rick mentioned earlier, our
+
+new Google Assistant feature,
+
+powered by Duplex technology,
+
+is able to help users
+
+with real-world tasks over the phone
+
+like calling a restaurant to book a table.
+
+Pixel phones will be the first to get
+
+this Google Assistant
+
+feature when it rolls out
+
+city by city this month.
+
+Next month.
+
+One of these months.
+
+Next month.
+
+So stay tuned for details.
+
+- And we're going even further to help you
+
+with phone calls with our
+
+new Call Screen feature.
+
+Let's say you're at dinner with friends
+
+or in a meeting at work
+
+and a call comes in.
+
+It could be something important
+
+or it could be an offer for a free cruise.
+
+When you get that call and you can't
+
+or don't want to pick up, just
+
+tap the Screen Call button
+
+and your phone will answer for you
+
+and ask who's calling and why.
+
+As you can see here, the
+
+conversation is transcribed
+
+in real time on your screen.
+
+You can decide whether to pick up,
+
+send a quick reply, or
+
+mark the call as spam.
+
+You'll never have to talk
+
+to another telemarketer.
+
+This all happens on-device,
+
+powered by Google's AI.
+
+Call Screen launches today
+
+with Pixel 3 in the US
+
+and comes to the entire
+
+Pixel family next month.
+
+- And we all know what it's like
+
+to be overwhelmed by notifications.
+
+Sometimes we just wanna
+
+disconnect entirely.
+
+So we've developed a feature
+
+we call Flip to Shush,
+
+an easy gesture to minimize distractions.
+
+Just turn your phone
+
+upside down on the table
+
+and your Pixel will take the hint
+
+and mute sounds and notifications
+
+so you can have a quiet
+
+dinner with friends
+
+or spend some time with your family.
+
+And finally, Pixel 3 includes
+
+our new Titan Security chip.
+
+As Rick said earlier,
+
+Titan is a big step forward
+
+in how we safeguard our users' data
+
+with on-device protection
+
+for log-in credentials,
+
+disk encryption, app
+
+data, and the integrity
+
+of the operating system.
+
+- We have one last thing to show you.
+
+What if your phone could provide
+
+a totally different
+
+experience when it's charging?
+
+We're excited to introduce
+
+the smartest wireless charger ever,
+
+the new Pixel Stand.
+
+As a wireless charger, Pixel
+
+Stand is best-in-class.
+
+It charges your Pixel 3 super
+
+fast even through cases.
+
+But Pixel Stand isn't just a charger.
+
+It changes the way you
+
+interact with your phone
+
+thanks to the Google Assistant.
+
+When you dock your phone, the UI adjusts
+
+to be easily glanceable
+
+from across the room.
+
+You can control it with your voice
+
+or the one-touch
+
+suggestions on the display.
+
+In the morning, your Pixel 3
+
+is a more thoughtful alarm clock.
+
+The screen will slowly brighten
+
+before your alarm goes off
+
+so you can make up more gently.
+
+And with help from the Assistant,
+
+it knows your morning
+
+routine, the weather,
+
+and can easily answer your questions,
+
+similar to Google Home.
+
+- Play your music on Pixel's
+
+incredible front-firing stereo speakers
+
+and the cover art is
+
+displayed on the screen.
+
+Pixel Stand also turns your Pixel 3
+
+into a helpful component
+
+of your thoughtful home.
+
+You can easily control
+
+your connected devices
+
+around the house, and with Nest Hello,
+
+you can see who's at the
+
+door on your Pixel 3 screen.
+
+When it's not busy with other tasks,
+
+your Pixel 3 becomes a photo frame
+
+that delights you with
+
+automatically curated memories
+
+from your Google Photos library,
+
+again, similar to the
+
+Google Home Hub experience
+
+you saw earlier.
+
+Pixel Stand transforms your Pixel 3
+
+so you can get a more
+
+visual, helpful experience
+
+from your phone.
+
+It's the best way to
+
+wirelessly charge your Pixel
+
+or any QI-compatible device.
+
+Pixel 3 is available for pre-order now,
+
+starting at $799, and Pixel Stand is $79.
+
+Pixel 3 will arrive on October 18th
+
+in the US through Verizon and unlocked
+
+on the Google Store and Project Fi.
+
+On November 1st, it will be
+
+available in 12 more markets
+
+including four new ones this year:
+
+France, Ireland, Japan, and Taiwan.
+
+- And we also have a
+
+large selection of cases
+
+and accessories available
+
+from both Google and our partners.
+
+Check them out on the Google Store today.
+
+So that's the new Pixel 3.
+
+It's designed from the inside out to be
+
+the smartest, most helpful
+
+device in your life.
+
+It's a phone that can answer itself,
+
+a camera that won't miss a shot,
+
+and a helpful assistant
+
+even when it's charging.
+
+- Before Rick comes back
+
+up, enjoy this short film,
+
+shot entirely on Pixel 3, by
+
+the amazing Terrence Malick.
+
+- I heard about this frog.
+
+It's a very tiny frog
+
+but it's also very special.
+
+You touch it,
+
+your world can change forever.
+
+Blue becomes red
+
+and red becomes blue.
+
+Nothing is ever quite the same you know.
+
+- So there they are!
+
+The newest members
+
+of this year's Made by Google family.
+
+We're taking an end-to-end
+
+approach to consumer technology
+
+that merges our most innovative AI
+
+with intuitive software
+
+and powerful hardware.
+
+Made by Google devices
+
+empower people to do more
+
+with their day so they have
+
+to do less with their tech
+
+and they can focus on what matters most.
+
+We've designed them from the inside out
+
+to give you your own personal Google,
+
+anticipating your needs,
+
+taking things off your plate.
+
+You got a first look at Titan Security
+
+and how it's integrated
+
+into our mobile hardware
+
+for powerful protection in
+
+a simplified experience.
+
+And you've also seen how our approach
+
+to digital well-being is woven
+
+throughout the whole
+
+portfolio from Call Screen
+
+to Flip to Shush, Ambient
+
+EQ, and Family Link,
+
+we're taking our users'
+
+well-being very seriously.
+
+With Pixel Slate, we've
+
+built a Chrome OS device
+
+for the way you work and play today.
+
+It's a powerful work station at the office
+
+and it's a home theater
+
+you can hold in your hands.
+
+With Pixel 3, we've built the first phone
+
+that can answer the phone.
+
+And we've also taken the
+
+world's best smartphone camera
+
+and made it even better.
+
+And with Google Home Hub, we've built
+
+a radically helpful smart display
+
+which lays the foundation
+
+for the truly thoughtful home.
+
+There's a whole lot more to these devices
+
+and we're really excited for
+
+you to see that for yourselves
+
+in our demo area downstairs.
+
+For those of you on the live
+
+stream, please stick around
+
+to see our products in
+
+more in-depth demos online,
+
+and also head over to our
+
+fresh new online store
+
+at this address behind
+
+me for full details,
+
+pricing, and availability.
+
+Really appreciate you
+
+being here with us today.
+
+Thank you very much.
+
+Have a great day.
